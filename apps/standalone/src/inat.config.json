@@ -1,28 +1,28 @@
 {
   "taxa": [
     {
-      "label": "Butterflies and moth",
-      "short": "leps",
-      "taxonId": 47157
+      "label": "Vascular plants",
+      "short": "plants",
+      "taxonId": 211194
     }
   ],
   "places": [
     {
-      "label": "BC",
-      "short": "bc",
-      "placeId": 7085
+      "label": "Howe Sound",
+      "short": "Howe Sound",
+      "placeId": 121270
     }
   ],
   "features": {
     "recentObservations": {
-      "numResults": 100
+      "numResults": 40
     },
     "commonTaxa": {
-      "numResults": 100,
+      "numResults": 40,
       "numYears": 10
     },
     "favourites": {
-      "numResults": 100,
+      "numResults": 40,
       "numYears": 10
     },
     "stats": {
